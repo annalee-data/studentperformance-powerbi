@@ -50,4 +50,4 @@ Visualizations represented on the dashboard and their purpose
 
 *This query categorizes the Risk Score into Levels*
 - Students with a Risk Score of 4 or higher are labeled as "High" risk.
-- Students with a Risk Score of 3
+- Students with a Risk Score of 3 or less are labeled as "Medium/Low" risk.
