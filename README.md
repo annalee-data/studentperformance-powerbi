@@ -4,7 +4,9 @@
 
 Below is an exported PDF of the dashboard. Viewers may download the file *(StudentPerformancePortfolio(PwrBI).pbix)* attached to this repository to interact with the dashboard for free using Power BI Desktop!
 
-![Studentperformance](https://github.com/user-attachments/assets/66a1b1d2-d679-4f59-8e31-9380881d7f01)
+
+<img width="987" height="558" alt="studentperformancepdf" src="https://github.com/user-attachments/assets/7b84aecd-2206-4643-8b65-936cebdf7288" />
+
 *PDF version available in files*
 
 # Project Overview
@@ -43,9 +45,9 @@ Visualizations represented on the dashboard and their purpose
 <br>
 
 ### Risk Level (DAX Query)
-<img width="251" height="71" alt="risklevvel" src="https://github.com/user-attachments/assets/dc70b1eb-2a7d-4e86-aa99-43a17ba15637" />
+<img width="245" height="71" alt="riskelvel" src="https://github.com/user-attachments/assets/64c92d5b-b662-4fe0-bb68-27cf01cdd468" />
 <br>
 
 *This query categorizes the Risk Score into Levels*
 - Students with a Risk Score of 4 or higher are labeled as "High" risk.
-- Students with a Risk Score of 
+- Students with a Risk Score of 3
