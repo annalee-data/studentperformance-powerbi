@@ -9,7 +9,7 @@ Below is an exported PDF of the dashboard. Viewers may download the original Pow
 *PDF version available [here](portfoliopng.pdf)*
 
 # Project Overview
-"Predictive dashboard to identify high-risk students based on test scores to aid early intervention" <br> <br>
+"Predictive dashboard to identify high-risk students based on multiple variables to aid early intervention" <br> <br>
 ***Objective***
 - Student Improvement
 - Equity in Education
