@@ -1,0 +1,101 @@
+Student ID,First Name,Last Name,Primary Teacher,Gender,Race/Ethnicity,Parental Education,Lunch Type,Test Prep Course,Math Score,Reading Score,Writing Score
+S1000,Jamie,Lee,Ms. Patel,Male,Group A,Associate,Standard,Completed,78,69,70
+S1001,Casey,Clark,Ms. Patel,Nonbinary,Group C,High school,Standard,None,84,54,57
+S1002,Cameron,Lee,Ms. Patel,Female,Group B,High school,Standard,None,75,82,73
+S1003,Jamie,Johnson,Mr. Thompson,Female,Group C,Master,Free/Reduced,None,59,74,56
+S1004,Peyton,Clark,Mrs. Rivera,Male,Group E,Associate,Free/Reduced,Completed,66,75,76
+S1005,Cameron,Nguyen,Mr. Thompson,Male,Group A,High school,Free/Reduced,None,70,80,60
+S1006,Riley,Nguyen,Mr. Anderson,Male,Group B,High school,Standard,Completed,62,76,80
+S1007,Cameron,Nguyen,Mrs. Rivera,Female,Group D,Bachelor,Standard,Completed,93,66,78
+S1008,Casey,Nguyen,Ms. Patel,Female,Group A,High school,Free/Reduced,None,77,80,75
+S1009,Taylor,Wilson,Mrs. Kim,Female,Group A,High school,Standard,Completed,70,80,70
+S1010,Morgan,Lopez,Mr. Thompson,Male,Group A,Associate,Standard,Completed,58,65,72
+S1011,Cameron,Martinez,Mrs. Rivera,Nonbinary,Group A,Bachelor,Standard,None,79,63,55
+S1012,Taylor,Johnson,Mrs. Kim,Female,Group E,Bachelor,Standard,None,64,56,61
+S1013,Casey,Lee,Mrs. Rivera,Male,Group D,High school,Free/Reduced,None,77,51,69
+S1014,Casey,Wilson,Mr. Anderson,Male,Group C,Bachelor,Free/Reduced,None,49,74,73
+S1015,Morgan,Martinez,Ms. Patel,Male,Group D,High school,Free/Reduced,Completed,69,94,66
+S1016,Jordan,Johnson,Mr. Anderson,Male,Group D,Some college,Standard,Completed,75,61,84
+S1017,Drew,Clark,Mrs. Kim,Female,Group A,Bachelor,Standard,Completed,75,81,89
+S1018,Cameron,Nguyen,Ms. Patel,Male,Group D,Associate,Standard,None,60,58,69
+S1019,Jamie,Clark,Ms. Patel,Male,Group C,Bachelor,Standard,None,71,60,84
+S1020,Morgan,Brown,Mrs. Rivera,Female,Group D,Bachelor,Standard,None,54,59,57
+S1021,Alex,Wilson,Mrs. Kim,Male,Group D,Associate,Free/Reduced,None,64,56,53
+S1022,Jamie,Johnson,Ms. Patel,Male,Group B,High school,Free/Reduced,Completed,76,75,57
+S1023,Drew,Brown,Ms. Patel,Male,Group A,Some college,Standard,Completed,80,67,90
+S1024,Jamie,Lopez,Mrs. Kim,Female,Group A,Some college,Free/Reduced,Completed,82,78,82
+S1025,Alex,Lopez,Mr. Anderson,Female,Group B,High school,Free/Reduced,None,54,64,64
+S1026,Riley,Lopez,Mrs. Kim,Male,Group D,Doctorate,Standard,Completed,60,73,78
+S1027,Peyton,Johnson,Ms. Patel,Female,Group D,Some college,Free/Reduced,None,78,56,54
+S1028,Riley,Garcia,Mr. Thompson,Female,Group A,Master,Standard,Completed,78,69,99
+S1029,Casey,Smith,Mrs. Rivera,Male,Group C,Associate,Standard,Completed,68,83,76
+S1030,Riley,Brown,Ms. Patel,Female,Group B,Bachelor,Standard,Completed,91,80,76
+S1031,Jordan,Wilson,Ms. Patel,Male,Group A,Associate,Free/Reduced,None,66,55,72
+S1032,Casey,Nguyen,Mr. Thompson,Male,Group A,Associate,Standard,None,77,66,70
+S1033,Casey,Garcia,Mrs. Kim,Nonbinary,Group B,Some college,Standard,Completed,76,83,77
+S1034,Jordan,Lopez,Ms. Patel,Nonbinary,Group E,High school,Standard,Completed,96,58,67
+S1035,Taylor,Smith,Mrs. Rivera,Female,Group B,Bachelor,Standard,None,83,70,70
+S1036,Alex,Clark,Mr. Thompson,Male,Group C,Some college,Free/Reduced,Completed,73,68,94
+S1037,Taylor,Nguyen,Mrs. Kim,Male,Group C,High school,Free/Reduced,None,75,71,78
+S1038,Cameron,Johnson,Mrs. Kim,Female,Group B,Associate,Standard,None,71,57,81
+S1039,Peyton,Smith,Mrs. Kim,Male,Group E,High school,Standard,Completed,89,57,70
+S1040,Peyton,Lopez,Ms. Patel,Male,Group E,Master,Standard,Completed,65,59,65
+S1041,Jamie,Clark,Mrs. Rivera,Female,Group A,Doctorate,Standard,None,72,65,64
+S1042,Cameron,Johnson,Ms. Patel,Male,Group B,Master,Standard,Completed,86,78,76
+S1043,Drew,Lee,Mrs. Kim,Nonbinary,Group B,Some college,Standard,Completed,57,66,86
+S1044,Alex,Wilson,Ms. Patel,Male,Group A,High school,Standard,None,53,71,48
+S1045,Casey,Lee,Mr. Anderson,Female,Group A,Master,Free/Reduced,None,45,48,80
+S1046,Jordan,Lee,Mrs. Kim,Male,Group C,Some college,Free/Reduced,None,62,64,63
+S1047,Morgan,Nguyen,Mr. Thompson,Female,Group C,Doctorate,Standard,None,72,53,61
+S1048,Jamie,Nguyen,Mr. Thompson,Female,Group A,Doctorate,Standard,Completed,90,68,65
+S1049,Jamie,Lee,Mrs. Rivera,Male,Group A,Master,Free/Reduced,Completed,76,75,58
+S1050,Casey,Martinez,Ms. Patel,Nonbinary,Group E,Some college,Standard,None,81,56,73
+S1051,Jordan,Brown,Mr. Anderson,Female,Group A,Some college,Free/Reduced,None,51,61,66
+S1052,Jamie,Nguyen,Mr. Thompson,Nonbinary,Group A,Master,Free/Reduced,Completed,58,85,62
+S1053,Casey,Nguyen,Ms. Patel,Female,Group B,Some college,Standard,None,64,59,52
+S1054,Jordan,Nguyen,Ms. Patel,Female,Group F,High school,Standard,Completed,79,83,72
+S1055,Cameron,Smith,Mr. Thompson,Nonbinary,Group A,Associate,Free/Reduced,Completed,75,64,92
+S1056,Taylor,Lopez,Mrs. Rivera,Male,Group C,Master,Standard,Completed,54,80,72
+S1057,Morgan,Nguyen,Mr. Anderson,Male,Group D,Bachelor,Standard,Completed,74,89,60
+S1058,Alex,Wilson,Mrs. Rivera,Male,Group A,Associate,Free/Reduced,Completed,62,50,73
+S1059,Peyton,Lopez,Mr. Anderson,Male,Group C,High school,Standard,Completed,82,67,72
+S1060,Casey,Wilson,Mr. Anderson,Male,Group B,Associate,Standard,Completed,79,81,48
+S1061,Casey,Clark,Mrs. Kim,Male,Group C,Doctorate,Free/Reduced,None,56,63,64
+S1062,Jamie,Smith,Ms. Patel,Female,Group C,High school,Standard,None,60,69,63
+S1063,Morgan,Lopez,Mrs. Kim,Male,Group C,Associate,Standard,None,54,59,72
+S1064,Cameron,Lopez,Mr. Anderson,Male,Group A,Master,Free/Reduced,None,64,66,83
+S1065,Drew,Clark,Ms. Patel,Female,Group D,Bachelor,Standard,Completed,85,73,86
+S1066,Riley,Lee,Mr. Thompson,Male,Group B,Bachelor,Free/Reduced,Completed,65,87,72
+S1067,Jordan,Garcia,Ms. Patel,Female,Group A,Bachelor,Free/Reduced,None,70,68,54
+S1068,Drew,Martinez,Mrs. Rivera,Male,Group A,Some college,Standard,Completed,70,78,100
+S1069,Riley,Garcia,Mrs. Rivera,Nonbinary,Group C,Some college,Standard,None,57,61,66
+S1070,Casey,Garcia,Ms. Patel,Female,Group C,Bachelor,Standard,Completed,74,70,75
+S1071,Alex,Garcia,Mrs. Rivera,Male,Group A,Bachelor,Standard,None,55,61,65
+S1072,Alex,Lee,Mrs. Rivera,Male,Group C,Master,Standard,Completed,69,79,77
+S1073,Morgan,Clark,Ms. Patel,Female,Group A,Master,Free/Reduced,None,53,61,64
+S1074,Riley,Brown,Ms. Patel,Female,Group C,Associate,Standard,None,85,68,59
+S1075,Morgan,Johnson,Mrs. Rivera,Female,Group A,Associate,Standard,None,65,86,60
+S1076,Casey,Brown,Mr. Thompson,Female,Group C,Bachelor,Free/Reduced,Completed,68,84,75
+S1077,Jamie,Garcia,Mrs. Rivera,Male,Group B,Associate,Standard,None,67,62,60
+S1078,Riley,Lopez,Mr. Anderson,Male,Group E,Bachelor,Free/Reduced,None,64,77,58
+S1079,Morgan,Garcia,Mr. Thompson,Male,Group A,Bachelor,Standard,None,63,61,66
+S1080,Morgan,Garcia,Mrs. Kim,Female,Group B,Master,Standard,None,71,45,62
+S1081,Cameron,Lee,Ms. Patel,Female,Group A,Some college,Free/Reduced,None,73,55,80
+S1082,Cameron,Brown,Ms. Patel,Male,Group E,Some college,Free/Reduced,Completed,70,56,48
+S1083,Jordan,Brown,Mr. Thompson,Male,Group D,High school,Free/Reduced,None,59,61,76
+S1084,Peyton,Wilson,Mr. Anderson,Male,Group A,Associate,Free/Reduced,None,62,65,77
+S1085,Drew,Wilson,Mrs. Rivera,Male,Group C,High school,Free/Reduced,None,42,82,44
+S1086,Riley,Johnson,Mrs. Rivera,Female,Group D,Some college,Standard,Completed,60,78,72
+S1087,Drew,Johnson,Mrs. Rivera,Female,Group C,Associate,Standard,Completed,89,73,71
+S1088,Alex,Martinez,Mrs. Kim,Female,Group C,Some college,Free/Reduced,None,81,73,51
+S1089,Morgan,Lopez,Ms. Patel,Female,Group A,Associate,Free/Reduced,None,63,43,57
+S1090,Morgan,Wilson,Mr. Anderson,Male,Group A,High school,Free/Reduced,Completed,81,77,64
+S1091,Alex,Nguyen,Ms. Patel,Female,Group D,High school,Standard,None,68,73,83
+S1092,Taylor,Johnson,Mr. Thompson,Female,Group E,Bachelor,Standard,Completed,100,60,84
+S1093,Casey,Smith,Mrs. Kim,Female,Group C,Some college,Free/Reduced,Completed,86,86,88
+S1094,Peyton,Martinez,Mrs. Kim,Female,Group B,High school,Standard,Completed,74,78,82
+S1095,Peyton,Lopez,Mrs. Rivera,Female,Group B,Associate,Free/Reduced,Completed,65,71,64
+S1096,Jordan,Brown,Mr. Thompson,Female,Group C,Bachelor,Free/Reduced,None,49,71,60
+S1097,Jordan,Clark,Mrs. Kim,Male,Group D,High school,Standard,Completed,77,98,80
+S1098,Cameron,Martinez,Ms. Patel,Male,Group D,Associate,Free/Reduced,None,57,67,53
+S1099,Peyton,Lee,Mrs. Kim,Male,Group D,High school,Free/Reduced,None,51,67,72
