@@ -4,6 +4,7 @@
 
 Below is an exported PDF of the dashboard. Viewers may download the file *(StudentPerformancePortfolio(PwrBI).pbix)* attached to this repository to interact with the dashboard for free using Power BI Desktop!
 
+<img width="983" height="551" alt="portfoliopdf" src="https://github.com/user-attachments/assets/90fcb16d-fa31-4286-8c95-b8eff217e6eb" />
 
 *PDF version available in files*
 
