@@ -27,7 +27,7 @@ Below is an exported PDF of the dashboard. Viewers may download the original Pow
 Visualizations represented on the dashboard and their purpose
 - **High Risk Students by Race/Ethnicity** -> Identify disparities and equity issues.
 - **Average Score of High Risk Students by Gender** -> Detecting patterns for direct academic support.
-- **Students with Highest Risk Level** -> Focusing support resources on the most at-risk students.
+- **Students with Highest Risk Level** -> Focusing support resources on the most at-risk students and their primary teachers.
 - **% High Risk and Target High Risk** -> Current percentage of students classified as high risk and a Goal metric for creating an improvement plan.
 <br>
 
