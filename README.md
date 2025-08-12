@@ -37,7 +37,7 @@ Visualizations represented on the dashboard and their purpose
 <br>
 
 *This query calculates each student's Risk Score*
-- **Math/Reading/WritingRisk**: if the student's test scores are above 65, add 1 point; if not, 0.
+- **Math/Reading/WritingRisk**: if the student's test scores are below 65, add 1 point; if not, 0.
 - **TestRisk**: if the student's 'Test Prep Course' is "None", add 1 point; if not, 0.
 - **LunchRisk**: if the student's 'Lunch Type' is "Free/Reduced", add 1 point; if not, 0.
 - **ParentRisk**: if the student's 'Parental Education' is "High School", add 1 point; if not, 0.
