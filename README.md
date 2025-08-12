@@ -61,7 +61,7 @@ Visualizations represented on the dashboard and their purpose
 # Key Insights
 - High Risk percentage is currently at 24%; the target is 20%.
 - Racial/Ethnic Group C & D have the highest share of % in high-risk students (29.17%), which is more than 3 times Group B & E (8.33%), indicating a potential support gap.
-- Male students of the high-risk group show a low average score in math (59.55), along with female students (57.83). Yet, Non-Binary students of the same high-risk group have the highest average math score (84.00). This may be due to a heavy outlier or sample size; however, it still indicates a potential resource gap in math.
+- Male students of the high-risk group show a low average score in math (59.55), along with female students (57.83). Yet, Non-Binary students of the same high-risk group have the highest average math score (84.00). This may be due to a heavy outlier or small sample size; however, it still indicates a potential resource gap in math.
 - Non-Binary students of the high-risk group show a low average reading score (54.00), indicating a potential support gap.
 - Multiple high-risk students have their primary teacher as Ms. Patel or Mrs. Kim.
 <br>
