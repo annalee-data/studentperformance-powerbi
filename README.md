@@ -6,7 +6,7 @@ Below is an exported PDF of the dashboard. Viewers may download the file *(Stude
 
 <img width="983" height="551" alt="portfoliopdf" src="https://github.com/user-attachments/assets/90fcb16d-fa31-4286-8c95-b8eff217e6eb" />
 
-*PDF version available in files*
+*PDF version available [here](portfoliopdfpdf.pdf)*
 
 # Project Overview
 "Predictive dashboard to identify high-risk students based on test scores to aid early intervention" <br> <br>
