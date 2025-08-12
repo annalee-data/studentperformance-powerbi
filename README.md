@@ -31,7 +31,7 @@ Visualizations represented on the dashboard and their purpose
 - **% High Risk and Target High Risk** -> Current percentage of students classified as high risk and a Goal metric for creating an improvement plan.
 <br>
 
-# Predictive Model Methodology 
+# Predictive Model  
 ### Risk Score Formula (DAX Query)
 <img width="382" height="124" alt="riskscoredaxquery" src="https://github.com/user-attachments/assets/8eeec957-37e8-405d-bce4-f25222d655f8" />
 <br>
