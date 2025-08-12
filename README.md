@@ -20,7 +20,7 @@ Below is an exported PDF of the dashboard. Viewers may download the file *(Stude
 - **Synthetic data** of 100 students with Race/Ethnicity anonymized
 - Risk indicators are **Math/Reading/Writing Scores, Test Prep Course, Lunch Type, and Parental Education**.
 - Data has been standardized and anonymized prior
-- Original CSV file attached in this repository as 'Student_Data.csv'
+- Original CSV file attached in this repository [Click Here](Student_Data.csv)
 <br>
 
 # Key Metrics
