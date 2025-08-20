@@ -1,4 +1,4 @@
-# Student Performance Dashboard (Power BI)
+# 📊 Student Performance Dashboard (Power BI)
 *Student performance visualization for Prediction using Power BI*
 
 
